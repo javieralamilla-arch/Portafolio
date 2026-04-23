@@ -22,7 +22,13 @@ Javier Alamilla Montaño - Economista & Científico de Datos
         <br>
         <em>Figura :Probabilidad de Acceso a Financiamiento en Función de Ingreso y Nivel Educativo.</em>
       </p>
-        
+      
+      <p align="center">
+        <img src="modelo1'2.png" width="500">
+        <br>
+        <em>Figura :Efecto Aislado del Ingreso sobre la Probabilidad de Acceso a Financiamiento.</em>
+      </p>
+       
        El modelo identificó que el rango de ingresos entre $15.3k y $60.3k MXN es el más crítico, donde la probabilidad de acceso al crédito se dispara en un 20%. El hallazgo más relevante fue la detección de 163,492 mujeres **"Falsos Positivos"**: perfiles que cumplen con todos los requisitos de elegibilidad (ingreso, educación, estabilidad), pero que el mercado actual no está atendiendo.
 
     * **Modelo 2: Probabilidad de Adquirir una Vivienda Propia.**

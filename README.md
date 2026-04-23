@@ -27,9 +27,14 @@ Javier Alamilla Montaño - Economista & Científico de Datos
       
 *   **Impacto Geográfico y Política Pública (Caso EdoMex)**
 
-     <img width="1124" height="876" alt="image" src="https://github.com/user-attachments/assets/e792467f-3a84-4300-a1fc-c85ffc1eb28a" />
-
+  <p align="center">
+  <img src="mapaedomex.png" width="500">
+  <br>
+  <em>Figura : Mapa de demanda potencial y probabilidad de vivienda propia en el Estado de México.</em>
+</p>
       El análisis permitió mapear la demanda potencial a nivel municipal. En el Estado de México, el modelo funcionó como herramienta de decisión al localizar municipios con probabilidad media-alta de adquisición donde existe una alta densidad de jefas de hogar sin vivienda. Esto permite que Infonavit no solo otorgue el crédito, sino que planifique la construcción física en las zonas con mayor retorno social y financiero.
+
+
 
 > [!TIP]
 > **Key Insight:** El ingreso resultó ser el factor determinante en la demanda potencial, permitiendo segmentar el mercado nacional con una precisión municipal.

@@ -17,7 +17,12 @@ Javier Alamilla Montaño - Economista & Científico de Datos
 
 *   **Resultados:** 
     * **Modelo 1: Probabilidad de acceso a Financiamiento de Vivienda.**
-  
+      <p align="center">
+        <img src="modelo1.png" width="500">
+        <br>
+        <em>Figura :Probabilidad de Acceso a Financiamiento en Función de Ingreso y Nivel Educativo.</em>
+      </p>
+        
        El modelo identificó que el rango de ingresos entre $15.3k y $60.3k MXN es el más crítico, donde la probabilidad de acceso al crédito se dispara en un 20%. El hallazgo más relevante fue la detección de 163,492 mujeres **"Falsos Positivos"**: perfiles que cumplen con todos los requisitos de elegibilidad (ingreso, educación, estabilidad), pero que el mercado actual no está atendiendo.
 
     * **Modelo 2: Probabilidad de Adquirir una Vivienda Propia.**

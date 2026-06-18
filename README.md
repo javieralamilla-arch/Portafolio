@@ -20,13 +20,13 @@ Javier Alamilla Montaño - Economista & Científico de Datos
       <p align="center">
         <img src="modelo1.png" width="500">
         <br>
-        <em>Figura :Probabilidad de Acceso a Financiamiento en Función de Ingreso y Nivel Educativo.</em>
+        <em>Figura 1: Probabilidad de Acceso a Financiamiento en Función de Ingreso y Nivel Educativo.</em>
       </p>
       
       <p align="center">
         <img src="modelo1'2.png" width="500">
         <br>
-        <em>Figura :Efecto Aislado del Ingreso sobre la Probabilidad de Acceso a Financiamiento.</em>
+        <em>Figura 2: Efecto Aislado del Ingreso sobre la Probabilidad de Acceso a Financiamiento.</em>
       </p>
        
        El modelo identificó que el rango de ingresos entre $15.3k y $60.3k MXN es el más crítico, donde la probabilidad de acceso al crédito se dispara en un 20%. El hallazgo más relevante fue la detección de 163,492 mujeres **"Falsos Positivos"**: perfiles que cumplen con todos los requisitos de elegibilidad (ingreso, educación, estabilidad), pero que el mercado actual no está atendiendo.
@@ -41,7 +41,7 @@ Javier Alamilla Montaño - Economista & Científico de Datos
   <p align="center">
   <img src="mapaedomex.png" width="500">
   <br>
-  <em>Figura : Mapa de demanda potencial y probabilidad de vivienda propia en el Estado de México.</em>
+  <em>Figura 3: Mapa de demanda potencial y probabilidad de vivienda propia en el Estado de México.</em>
 </p>
       El análisis permitió mapear la demanda potencial a nivel municipal. En el Estado de México, el modelo funcionó como herramienta de decisión al localizar municipios con probabilidad media-alta de adquisición donde existe una alta densidad de jefas de hogar sin vivienda. Esto permite que Infonavit no solo otorgue el crédito, sino que planifique la construcción física en las zonas con mayor retorno social y financiero.
 
